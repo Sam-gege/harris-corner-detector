@@ -3,9 +3,7 @@ This is a Python implementation of Harris corner detector.
 ## Required Libraries
 import matplotlib.pyplot as plt  
 import numpy as np  
-
 from numba import jit  
-
 from skimage.io import imread  
 from skimage.color import rgb2gray  
 from skimage import data  
