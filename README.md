@@ -8,5 +8,11 @@ from numba import jit
 import matplotlib.pyplot as plt  
 ## Results
 <p align="center">
-  <img src="https://github.com/Sam-gege/harris-corner-detector/blob/main/results.png">
+  <img src="https://github.com/Sam-gege/harris-corner-detector/blob/main/results/checkerboard.png">
 </p>  
+<p align="center">
+  <img src="https://github.com/Sam-gege/harris-corner-detector/blob/main/results/lena.png">
+</p> 
+<p align="center">
+  <img src="https://github.com/Sam-gege/harris-corner-detector/blob/main/results/astronaut.png">
+</p> 
